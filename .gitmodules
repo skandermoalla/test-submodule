@@ -1,0 +1,3 @@
+[submodule "ML_course"]
+	path = ML_course
+	url = git@github.com:epfml/ML_course.git
